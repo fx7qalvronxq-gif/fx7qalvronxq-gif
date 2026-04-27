@@ -1,6 +1,5 @@
-
-<div align="center">
 ![header](./header.svg)
+
 <div align="center">
 
 *I don't build websites. I build worlds.*
