@@ -1,16 +1,6 @@
-![header](./header.svg)
+
 <div align="center">
-
-# ✦ ニキータ.dev
-
-**3D Frontend Developer** · Three.js / WebGL · JavaScript · Go
-
-*Building immersive web experiences from Almaty, Kazakhstan*
-
-</div>
-
----
-
+![header](./header.svg)
 <div align="center">
 
 *I don't build websites. I build worlds.*
